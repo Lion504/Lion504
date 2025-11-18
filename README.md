@@ -34,6 +34,18 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Cheerio](https://img.shields.io/badge/-Cheerio-E88C29?style=flat-square&logo=javascript&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![pip](https://img.shields.io/badge/-pip-3776AB?style=flat-square&logo=pypi&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 **Databases:**
@@ -51,8 +63,6 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-
-**AI & Server Management:**
 
 **AI & Server Management:**
 
@@ -102,13 +112,6 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 - **Status:** Planning/Development
 - **Goal:** Aggregate job listings from multiple Finnish sources
 
-### 🇫🇮 Finland Starter Kit
-**Helping international newcomers settle in Finland** - First-week survival guide and tools
-- **Role:** Founder & Developer
-- **Tech Stack:** TBD (likely Figma to Web, No-Code/Low-Code)
-- **Status:** Planning/Pitch Stage
-- **Goal:** Ease the transition for people moving to Finland
-
 ---
 
 ## 🏆 Achievements & Recognition
@@ -121,10 +124,6 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 - 🏆 **Top 10 out of nearly 200 submissions**
 - 🛠️ Tackled Peikko's BIM metadata challenge with zero prior experience
 - 🚀 Revolutionized building design with IFC technology
-
-### **GPA Excellence**
-- 🎯 **Metropolia UAS:** 4.5/5.0 GPA in Information Technology Engineering
-- 🎯 **Vocational School:** 4.2/5.0 GPA in Software Technology
 
 ---
 
@@ -142,7 +141,7 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 **💻 Technical Skills:**
 - Mastering full-stack development with **Node.js & React**
-- Deep diving into **Unity game development** (C#, WebGL)
+- Diving into **Unity game development** (C#, WebGL)
 - Exploring **AI agents** and **local LLM deployment**
 - Learning **CI/CD pipelines** and **GitHub Actions**
 - Improving **code quality** and **security standards**
@@ -186,7 +185,6 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 - 🇬🇧 **English** - Fluent
 - 🇫🇮 **Finnish** - Conversational
-- 🇨🇳 **Mandarin Chinese** - Native/Bilingual
 
 ---
 
@@ -203,31 +201,10 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 ---
 
-## 📈 Professional Experience Highlights
-
-### **Project Manager & Co-founder**
-**Henan Jiatai Engineering Management Co. Ltd.** | 2016 - 2021 | China
-- Team leader for construction engineering planning and consultancy
-- Managed major project resources, budgets, and processes
-- Delivered large-scale construction projects on time and within budget
-
-### **Architecture Engineer**
-**Henan Zhengtian Engineering Management Co. Ltd.** | 2011 - 2016 | China
-- Collaborated with architects and engineers to resolve technical issues
-- Ensured design specifications met construction standards
-- Coordinated between design and construction teams
-
----
-
 ## 🎯 2025 Goals
 
-- [ ] Complete **3+ full-stack portfolio projects**
-- [ ] Launch **Finland Starter Kit MVP**
 - [ ] Build **Job Aggregation Platform** alpha version
-- [ ] Contribute to **5+ open-source projects**
 - [ ] Land **part-time developer role** or **internship**
-- [ ] Participate in **2+ more hackathons**
-- [ ] Master **React** and **Node.js** backend development
 - [ ] Deploy **production-ready applications** on cloud
 
 ---
