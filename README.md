@@ -1,6 +1,6 @@
-# Hi there, I'm Yongzhi (Timo) 👋
+# Hi there, I'm Wang (Timo) 👋
 
-**Full-Stack Developer | IT Student | Former Construction PM | Building solutions for real-world problems**
+**Software Engineer | Systems Programmer | Former Construction PM | Building solutions across the stack for real-world problems**
 
 ---
 
@@ -10,8 +10,8 @@ I'm a highly motivated **IT student** at Metropolia University of Applied Scienc
 
 Former **Construction Project Manager** with **10+ years of experience** managing large-scale projects. Now transferring technical skills into software development, seeking part-time job or internship opportunities.
 
-- 🔭 I'm currently working on **[Job Aggregation Platform, Finland Starter Kit, 3D Board Game (Drakula v2)]**
-- 🌱 I'm learning **Python, Java, JavaScript, Full-Stack Development (Node.js, React), Unity Game Development**
+- 🔭 I'm currently working on **[Job Aggregation Platform]**
+- 🌱 I'm learning **Python, Java, JavaScript, Full-Stack Development (Node.js, React), Google Cloud, local LLM, AI Agent, C#, Unity Game Development**
 - 💼 Exploring startup opportunities in the Finnish market
 - 🎮 Building **Unity 3D WebGL games** - focusing on **game logic, backend, and cloud/database systems** (not graphics/art)
 - 🏆 **7th place at Junction Hackathon 2024** - IFC Innovate challenge (top 10 out of nearly 200 submissions)
@@ -54,11 +54,21 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 **AI & Server Management:**
 
-![AI Agents](https://img.shields.io/badge/-AI_Agents-FF6F00?style=flat-square&logo=artifici}alintelligence&logoColor=white)
+**AI & Server Management:**
+
+![AI Agents](https://img.shields.io/badge/-AI_Agents-FF6F00?style=flat-square&logo=artificialintelligence&logoColor=white)
 ![Local LLM](https://img.shields.io/badge/-Local_LLM-8E24AA?style=flat-square&logo=meta&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/-Open_WebUI-000000?style=flat-square&logo=openai&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Self-Host](https://img.shields.io/badge/-Self--Host-2C3E50?style=flat-square&logo=homeassistant&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
 ![Coolify](https://img.shields.io/badge/-Coolify-3B82F6?style=flat-square&logo=docker&logoColor=white)
+![1Panel](https://img.shields.io/badge/-1Panel-0066CC?style=flat-square&logo=linux&logoColor=white)
+![Webmin](https://img.shields.io/badge/-Webmin-0099CC?style=flat-square&logo=webmin&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
+![Self-Host](https://img.shields.io/badge/-Self--Host-2C3E50?style=flat-square&logo=homeassistant&logoColor=white)
 
 ---
 
