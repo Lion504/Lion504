@@ -21,6 +21,10 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 ## 🛠️ My Toolbox
 
+<table>
+<tr>
+<td width="30%" valign="top">
+
 **Programming Languages:**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -29,6 +33,33 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="30%" valign="top">
+  
+**Tools & Technologies:**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+
+</td>
+<td width="30%" valign="top">
+
+**Databases:**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="30%" valign="top">
 
 **Frameworks & Libraries:**
 
@@ -48,21 +79,8 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 ![pip](https://img.shields.io/badge/-pip-3776AB?style=flat-square&logo=pypi&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-**Databases:**
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Technologies:**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+</td>
+<td width="30%" valign="top">
 
 **AI & Server Management:**
 
@@ -80,9 +98,28 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 ![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
 ![Self-Host](https://img.shields.io/badge/-Self--Host-2C3E50?style=flat-square&logo=homeassistant&logoColor=white)
 
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lion504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lion504&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
+</p>
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lion504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9) -->
+
 ---
 
 ## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎮 [Drakula v2 - 3D Board Game](https://github.com/ktnlvr/drakula-v2)
 **Full-Stack 3D Board Game** - Multiplayer strategy game with backend infrastructure
@@ -91,12 +128,20 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 - **Status:** Active Development (Dec 2024)
 - **Highlights:** Mostly backend work with game logic programming
 
+</td>
+<td width="50%" valign="top">
+
 ### 💰 [MoneyMoves - Web 3D Game](https://github.com/haxax/Junc25)
 **Education-Focused 3D Web Game** - Financial literacy through interactive gaming
 - **Role:** Unity Game Developer & Backend Developer
 - **Tech Stack:** C#, Unity, Google Cloud, Firebase, Git, GitHub
 - **Status:** Completed (Nov 2024)
 - **Highlights:** Built for Junction Hackathon 2024
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ✈️ [Airport Simulation](https://github.com/unaisansegundo/JavaSimulationProject)
 **Java Simulation Project** - Airport operations and logistics simulation
@@ -105,12 +150,19 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 - **Status:** Completed (Sep 2024)
 - **Highlights:** Complex simulation with data visualization
 
-### 🇯🇴 Job Aggregation Platform
+</td>
+<td width="50%" valign="top">
+
+### 🇯🇴 [Job Aggregation Platform](https://)
 **Finnish Market Job Scraper & Aggregator** - Helping job seekers find opportunities
 - **Role:** Full-Stack Developer
 - **Tech Stack:** Node.js, React, Web Scraping, APIs
 - **Status:** Planning/Development
 - **Goal:** Aggregate job listings from multiple Finnish sources
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -127,38 +179,23 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 ---
 
-## 📊 GitHub Stats
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Timo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lion504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+## 💡 Fun Facts & Interests
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lion504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+- 🏆 Went from **zero IFC/BIM experience** to **top 10** at Junction in 40 hours
+- 🎯 Built a **Finnish team** in 20 minutes at an international hackathon
+- 🚀 Transitioned from **managing buildings** to **building apps**
+- 🤖 Experimenting with **local LLM deployment** and **AI tools**
+- 🇯🇴 Analyzing **Finnish job markets** and **business opportunities**
+- 🛠️ Running **self-hosted server** with Docker and Coolify
+- 🎮 Developing **game logic and backends**, not graphics
+- 📚 Learning through **project-based development**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lion504&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
----
-
-## 🌱 Current Focus & Learning Goals
-
-**💻 Technical Skills:**
-- Mastering full-stack development with **Node.js & React**
-- Diving into **Unity game development** (C#, WebGL)
-- Exploring **AI agents** and **local LLM deployment**
-- Learning **CI/CD pipelines** and **GitHub Actions**
-- Improving **code quality** and **security standards**
-
-**🚀 Business & Entrepreneurship:**
-- Analyzing **Finnish job market** trends and opportunities
-- Building **startup concepts** (job aggregation, settlement services)
-- Understanding **legal aspects** of web scraping and data usage
-- Exploring **SaaS business models** and **MVP development**
-
-**🎯 Career Goals:**
-- Seeking **part-time developer position** or **internship**
-- Building portfolio of **real-world projects**
-- Contributing to **open-source** communities
-- Networking with **Finnish tech community**
-
----
+</td>
+<td width="50%" valign="top">
 
 ## 🛠️ Soft Skills & Management
 
@@ -170,6 +207,47 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 - 🧩 **Problem-Solving** - Critical thinking under pressure
 - 🔄 **Adaptability** - Transitioning careers successfully
 - ⏱️ **Time Management** - Balancing studies, projects, and hackathons
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Current Focus & Learning Goals
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**💻 Technical Skills:**
+- Mastering full-stack development with **Node.js & React**
+- Diving into **Unity game development** (C#, WebGL)
+- Exploring **AI agents** and **local LLM deployment**
+- Learning **CI/CD pipelines** and **GitHub Actions**
+- Improving **code quality** and **security standards**
+
+</td>
+<td width="33%" valign="top">
+
+**🚀 Business & Entrepreneurship:**
+- Analyzing **Finnish job market** trends and opportunities
+- Building **startup concepts** (job aggregation, settlement services)
+- Understanding **legal aspects** of web scraping and data usage
+- Exploring **SaaS business models** and **MVP development**
+
+</td>
+<td width="33%" valign="top">
+
+**🎯 Career Goals:**
+- Seeking **part-time developer position** or **internship**
+- Building portfolio of **real-world projects**
+- Contributing to **open-source** communities
+- Networking with **Finnish tech community**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -185,19 +263,6 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 - 🇬🇧 **English** - Fluent
 - 🇫🇮 **Finnish** - Conversational
-
----
-
-## 💡 Fun Facts & Interests
-
-- 🏆 Went from **zero IFC/BIM experience** to **top 10** at Junction in 40 hours
-- 🎯 Built a **Finnish team** in 20 minutes at an international hackathon
-- 🚀 Transitioned from **managing buildings** to **building apps**
-- 🤖 Experimenting with **local LLM deployment** and **AI tools**
-- 🇯🇴 Analyzing **Finnish job markets** and **business opportunities**
-- 🛠️ Running **self-hosted server** with Docker and Coolify
-- 🎮 Developing **game logic and backends**, not graphics
-- 📚 Learning through **project-based development**
 
 ---
 
