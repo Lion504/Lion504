@@ -15,7 +15,7 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 - 💼 Exploring startup opportunities in the Finnish market
 - 🎮 Building **Unity 3D WebGL games** - focusing on **game logic, backend, and cloud/database systems** (not graphics/art)
 - 🏆 **7th place at Junction Hackathon 2024** - IFC Innovate challenge (top 10 out of nearly 200 submissions)
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lehtonen6677@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lion504)
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lehtonen6677@gmail.com) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lion504)
 
 ---
 
