@@ -155,7 +155,7 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 </td>
 <td width="50%" valign="top">
 
-### 🇯🇴 [Job Aggregation Platform](https://)
+### 🇯🇴 [JobAio](https://github.com/Lion504/JobAio)
 **Finnish Market Job Scraper & Aggregator** - Helping job seekers find opportunities
 - **Role:** Full-Stack Developer
 - **Tech Stack:** Node.js, React, Web Scraping, APIs
