@@ -173,7 +173,6 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 ### **7th Place - Junction Hackathon 2024**
 **IFC Innovate: Enhancing Construction Experience**
 - 📅 November 2024
-- 👥 Built team with Finnish participants in 20 minutes
 - ⏱️ Nearly 40 sleepless hours of intense development
 - 🏆 **Top 10 out of nearly 200 submissions**
 - 🛠️ Tackled Peikko's BIM metadata challenge with zero prior experience
