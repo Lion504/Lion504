@@ -47,6 +47,9 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=flat-square&logo=pycharm&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+bun
 
 </td>
 <td width="30%" valign="top">
@@ -72,7 +75,9 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000?style=flat-square&logo=unity&logoColor=white)
 
@@ -91,7 +96,11 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 ![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
 ![Coolify](https://img.shields.io/badge/-Coolify-3B82F6?style=flat-square&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
+![Webmin](https://img.shields.io/badge/-Webmin-0099CC?style=flat-square&logo=webmin&logoColor=white)
 ![Self-Host](https://img.shields.io/badge/-Self--Host-2C3E50?style=flat-square&logo=homeassistant&logoColor=white)
+opencode geminicili openclaw
 
 </td>
 </tr>
@@ -107,7 +116,7 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 | | |
 |---|---|
-| ### 🤖 [CLboost - AI Cover Letter Generator](https://github.com/Lion504/CLboost) **Full-Stack AI Web Application** - Transforms resumes into personalized cover letters - **Role:** Full-Stack Developer & AI Integrator - **Tech Stack:** Java 21, Spring Boot 3.5, Vaadin 24.9, Spring AI, Google Gemini, MariaDB, Docker, Jenkins - **Status:** Active Development (Mar 2026) - **Highlights:** 5-step wizard, 3 AI tones, 5-language i18n, DOCX/PDF export, session-based auth | ### 🎮 [Drakula v2 - 3D Board Game](https://github.com/ktnlvr/drakula-v2) **Full-Stack 3D Board Game** - Multiplayer strategy game with backend infrastructure - **Role:** GamePlay Systems Programmer - Backend & Frontend Development - **Tech Stack:** Python, JavaScript, HTML, CSS, MySQL, Git, GitHub - **Status:** Active Development (Dec 2024) - **Highlights:** Mostly backend work with game logic programming |
+| ### 🤖 [JobAio](https://github.com/Lion504/JobAio) **Finnish Market Job Scraper & Aggregator** - Helping job seekers find opportunities - **Role:** Full-Stack Developer - **Tech Stack:** Node.js, React, Web Scraping, APIs - **Status:** Planning/Development - **Goal:** Aggregate job listings from multiple Finnish sources | ### 🎮 [Drakula v2 - 3D Board Game](https://github.com/ktnlvr/drakula-v2) **Full-Stack 3D Board Game** - Multiplayer strategy game with backend infrastructure - **Role:** GamePlay Systems Programmer - Backend & Frontend Development - **Tech Stack:** Python, JavaScript, HTML, CSS, MySQL, Git, GitHub - **Status:** Active Development (Dec 2024) - **Highlights:** Mostly backend work with game logic programming |
 | ### 💰 [MoneyMoves - Web 3D Game](https://github.com/haxax/Junc25) **Education-Focused 3D Web Game** - Financial literacy through interactive gaming - **Role:** Unity Game Developer & Backend Developer - **Tech Stack:** C#, Unity, Google Cloud, Firebase, Git, GitHub - **Status:** Completed (Nov 2024) - **Highlights:** Built for Junction Hackathon 2024 | ### ✈️ [Airport Simulation](https://github.com/unaisansegundo/JavaSimulationProject) **Java Simulation Project** - Airport operations and logistics simulation - **Role:** Backend Programmer - **Tech Stack:** Java, JavaScript, CSS, Git, GitHub - **Status:** Completed (Sep 2024) - **Highlights:** Complex simulation with data visualization |
 
 ---
@@ -124,9 +133,38 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 ---
 
-| |
-|---|
-| ## 💡 Fun Facts & Interests - 🏆 Went from **zero IFC/BIM experience** to **top 10** at Junction in 40 hours - 🎯 Built a **Finnish team** in 20 minutes at an international hackathon - 🚀 Transitioned from **managing buildings** to **building apps** - 🤖 Experimenting with **local LLM deployment** and **AI tools** - 🌍 Building **multilingual web apps** with i18n (EN/FI/SV/DE/FR) - 🛠️ Running **self-hosted server** with Docker and Coolify - 🎮 Developing **game logic and backends**, not graphics - 📚 Learning through **project-based development** | ## 🛠️ Soft Skills & Management **From 10+ Years in Construction Project Management:** - 👥 **Team Coordination** - Led large-scale construction projects - 📊 **Resource Management** - Budget planning and optimization - ✅ **Quality Control** - Ensuring deliverable standards - 🗣️ **Communication** - Stakeholder management and reporting - 🧩 **Problem-Solving** - Critical thinking under pressure - 🔄 **Adaptability** - Transitioning careers successfully - ⏱️ **Time Management** - Balancing studies, projects, and hackathons |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 💡 Fun Facts & Interests
+
+- 🏆 Went from **zero IFC/BIM experience** to **top 10** at Junction in 40 hours
+- 🎯 Built a **Finnish team** in 20 minutes at an international hackathon
+- 🚀 Transitioned from **managing buildings** to **building apps**
+- 🤖 Experimenting with **local LLM deployment** and **AI tools**
+- 🌍 Building **multilingual web apps** with i18n (EN/FI/SV/DE/FR)
+- 🛠️ Running **self-hosted server** with Docker and Coolify
+- 🎮 Developing **game logic and backends**, not graphics
+- 📚 Learning through **project-based development**
+
+</td>
+<td width="50%" valign="top">
+
+## 🛠️ Soft Skills & Management
+
+**From 10+ Years in Construction Project Management:**
+- 👥 **Team Coordination** - Led large-scale construction projects
+- 📊 **Resource Management** - Budget planning and optimization
+- ✅ **Quality Control** - Ensuring deliverable standards
+- 🗣️ **Communication** - Stakeholder management and reporting
+- 🧩 **Problem-Solving** - Critical thinking under pressure
+- 🔄 **Adaptability** - Transitioning careers successfully
+- ⏱️ **Time Management** - Balancing studies, projects, and hackathons
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -134,7 +172,7 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 | | | |
 |---|---|---|
-| **💻 Technical Skills:** - Mastering **Spring Boot & Vaadin** full-stack development - Building **AI-powered web applications** with Spring AI & Google Gemini - Implementing **CI/CD pipelines** with Jenkins & GitHub Actions - Learning **i18n and multi-language** app architecture - Diving into **Unity game development** (C#, WebGL) | **🚀 Business & Entrepreneurship:** - Analyzing **Finnish job market** trends and opportunities - Building **startup concepts** (AI tools, job aggregation, settlement services) - Understanding **legal aspects** of web scraping and data usage - Exploring **SaaS business models** and **MVP development** | **🎯 Career Goals:** - Seeking **part-time developer position** or **internship** - Building portfolio of **real-world projects** - Contributing to **open-source** communities - Networking with **Finnish tech community** |
+| **💻 Technical Skills:** - Mastering **Spring Boot & Vaadin** full-stack development - Building **AI-powered web applications** with Spring AI & Google Gemini - Implementing **CI/CD pipelines** with Jenkins & GitHub Actions - Learning **i18n and multi-language** app architecture - Diving into **Unity game development** (C#, WebGL) | **🚀 Business & Entrepreneurship:** - Analyzing **Finnish job market** trends and opportunities - Builddocs: reformat profile sections and update featured projects and toolboxing **startup concepts** (AI tools, job aggregation, settlement services) - Understanding **legal aspects** of web scraping and data usage - Exploring **SaaS business models** and **MVP development** | **🎯 Career Goals:** - Seeking **part-time developer position** or **internship** - Building portfolio of **real-world projects** - Contributing to **open-source** communities - Networking with **Finnish tech community** |
 
 ---
 
@@ -155,10 +193,10 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 ## 🎯 2026 Goals
 
-- [ ] Merge **CLboost** `feature/frontend` — full web app with AI, auth & i18n
 - [ ] Land **part-time developer role** or **internship**
+- [ ] Build **JobAio** alpha version
+- [ ] Merge **CLboost** `feature/frontend` — full web app with AI, auth & i18n
 - [ ] Deploy **CLboost** to production on cloud
-- [ ] Build **Job Aggregation Platform** alpha version
 
 ---
 
