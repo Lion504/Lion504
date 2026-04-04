@@ -162,7 +162,7 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 </td>
 <td width="50%" valign="top">
 
-### 🇯🇴 [JobAio](https://github.com/Lion504/JobAio)
+### 🇯 [JobAio](https://github.com/Lion504/JobAio)
 
 **Finnish Market Job Scraper & Aggregator** - Helping job seekers find opportunities
 
