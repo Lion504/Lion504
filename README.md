@@ -68,9 +68,11 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 **🤖 AI & LLMs:**
 
 ![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude_Code-D97756?style=flat-square&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/-OpenRouter-FF6B6B?style=flat-square&logo=router&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Multi Agent](https://img.shields.io/badge/-Multi_Agent_Systems-FF9800?style=flat-square&logo=automatic&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI_Agents-FF6F00?style=flat-square&logo=artificialintelligence&logoColor=white)
 ![Open WebUI](https://img.shields.io/badge/-Open_WebUI-000000?style=flat-square&logo=openai&logoColor=white)
 
