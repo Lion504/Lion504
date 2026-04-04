@@ -124,14 +124,14 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [Drakula v2 - 3D Board Game](https://github.com/ktnlvr/drakula-v2)
+### 🇫🇮 [Fi-Job-Maps](https://github.com/Lion504/Fi-Job-Maps)
 
-**Full-Stack 3D Board Game** - Multiplayer strategy game with backend infrastructure
+**Finland Job Market Visualizer** - Interactive data visualization with AI exposure analysis
 
-- **Role:** GamePlay Systems Programmer - Backend & Frontend Development
-- **Tech Stack:** Python, JavaScript, HTML, CSS, MySQL, Git, GitHub
-- **Status:** Active Development (Dec 2024)
-- **Highlights:** Mostly backend work with game logic programming
+- **Role:** Full-Stack Developer & Data Engineer
+- **Tech Stack:** Python, HTML, StatFin API, Occupational Barometer, GitHub Pages
+- **Status:** Active (10 ⭐ stars)
+- **Highlights:** Visualizes Finnish occupation data with AI exposure scoring, deployed on GitHub Pages
 
 </td>
 <td width="50%" valign="top">
