@@ -10,7 +10,6 @@ I'm a highly motivated **IT student** at Metropolia University of Applied Scienc
 
 Former **Construction Project Manager** with **10+ years of experience** managing large-scale projects. Now transferring technical skills into software development, seeking part-time job or internship opportunities.
 
-- 🔭 I'm currently working on [**JobAio**](https://github.com/Lion504/JobAio)
 - 🌱 I’m learning **Java (Spring Boot, Vaadin), Python, JavaScript, Full-Stack Development, Google Cloud, local LLM, AI Agent, C#, Unity Game Development**
 - 🤝 Exploring startup opportunities in the Finnish market
 - 🎮 Building **Unity 3D WebGL games** - focusing on **game logic, backend, and cloud/database systems** (not graphics/art)
@@ -23,84 +22,94 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="33%" valign="top">
 
-**Programming Languages:**
+**💻 Programming Languages:**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
-<td width="30%" valign="top">
+<td width="33%" valign="top">
   
-**Tools & Technologies:**
+**⚙️ Frameworks & Libraries:**
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-
-</td>
-<td width="30%" valign="top">
-
-**Databases:**
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="30%" valign="top">
-
-**Frameworks & Libraries:**
-
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Vaadin](https://img.shields.io/badge/-Vaadin-00B4F0?style=flat-square&logo=vaadin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
-![Cheerio](https://img.shields.io/badge/-Cheerio-E88C29?style=flat-square&logo=javascript&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
-![pip](https://img.shields.io/badge/-pip-3776AB?style=flat-square&logo=pypi&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 </td>
-<td width="30%" valign="top">
+<td width="33%" valign="top">
 
-**AI & Server Management:**
+**☁️ Databases & Cloud:**
 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🤖 AI & LLMs:**
+
+![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-FF6B6B?style=flat-square&logo=router&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![AI Agents](https://img.shields.io/badge/-AI_Agents-FF6F00?style=flat-square&logo=artificialintelligence&logoColor=white)
-![Local LLM](https://img.shields.io/badge/-Local_LLM-8E24AA?style=flat-square&logo=meta&logoColor=white)
 ![Open WebUI](https://img.shields.io/badge/-Open_WebUI-000000?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**✅ Testing & CI/CD:**
+
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**🖥️ Self-Hosting:**
+
 ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
 ![Coolify](https://img.shields.io/badge/-Coolify-3B82F6?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA5C4A?style=flat-square&logo=n8n&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
 ![1Panel](https://img.shields.io/badge/-1Panel-0066CC?style=flat-square&logo=linux&logoColor=white)
-![Webmin](https://img.shields.io/badge/-Webmin-0099CC?style=flat-square&logo=webmin&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
-![Self-Host](https://img.shields.io/badge/-Self--Host-2C3E50?style=flat-square&logo=homeassistant&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+---
+
+### Also familiar with:
+
+BeautifulSoup, ESLint, Prettier, npm, pnpm, bun, homebrew, Linux
 
 ---
 
@@ -177,23 +186,23 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 
 ---
 
-## 💡 Fun Facts & Interests
+## 💡 About Me
 
-- 🌸 **Peony Enthusiast**: Researching peony cultivation and its cultural significance.
-- 🇫🇮 **Nordic Culture**: Actively exploring Finnish traditions and events.
-- 🤖 **AI Tinkerer**: Love deploying local LLMs and experimenting with AI agents.
-- 🌍 **Bridge Builder**: Interested in international cultural cooperation (Finland ↔ China).
+- 🛠️ **Builder mindset**: Obsessed with creating practical software that solves real problems for people
+- 🤖 **AI Engineering**: Building local LLMs and agent systems that actually deliver useful capabilities
+- 📦 **Infrastructure**: Deploying and maintaining production-ready self-hosted systems
+- 🇫🇮 **Based in Finland**: Building for the Finnish market and local user needs
 
 ---
 
-## 🌱 Current Focus & Learning Goals
+## 🎯 Current Focus
 
-| 💻 Technical Skills                  | 🚀 Business & Entrepreneurship     | 🎯 Career Goals                                 |
-| :----------------------------------- | :--------------------------------- | :---------------------------------------------- |
-| - Mastering **Spring Boot & Vaadin** | - Analyzing **Finnish job market** | - Seeking **part-time developer position**      |
-| - Building **AI-powered web apps**   | - Building **startup concepts**    | - or **internship**                             |
-| - Implementing **CI/CD pipelines**   | - Understanding **legal aspects**  | - Building portfolio of **real-world projects** |
-| - Learning **i18n & multi-language** | - Exploring **SaaS & MVP**         | - Contributing to **open-source**               |
+| 💻 Technical Development            | 🚀 Career & Impact                          |
+| :---------------------------------- | :------------------------------------------ |
+| Mastering Spring Boot & Vaadin      | Building tools that help real people        |
+| Production grade full-stack systems | Deliver professional quality software       |
+| Proper CI/CD & DevOps practices     | Grow through real world projects            |
+| Clean, maintainable code patterns   | Contribute value to the developer community |
 
 ---
 
@@ -210,15 +219,6 @@ Former **Construction Project Manager** with **10+ years of experience** managin
 - 🇬🇧 **English** - Fluent
 - 🇫🇮 **Finnish** - Conversational
 - 🇨🇳 **Chinese** - Native
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Land **part-time developer role** or **internship**
-- [ ] Build [**JobAio**](https://github.com/Lion504/JobAio) alpha version
-- [ ] Merge **CLboost** `feature/frontend` — full web app with AI, auth & i18n
-- [ ] Deploy **CLboost** to production on cloud
 
 ---
 
