@@ -164,14 +164,14 @@ BeautifulSoup, ESLint, Prettier, npm, pnpm, bun, homebrew, Linux
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ [Airport Simulation](https://github.com/unaisansegundo/JavaSimulationProject)
+### 🚀 [CL Booster](https://github.com/Lion504/CLboost.git)
 
-**Java Simulation Project** - Airport operations and logistics simulation
+**AI-Powered Cover Letter Generator** - Personalized cover letters tailored to job applications.
 
-- **Role:** Backend Programmer
-- **Tech Stack:** Java, JavaScript, CSS, Git, GitHub
-- **Status:** Completed (Sep 2024)
-- **Highlights:** Complex simulation with data visualization
+- **Role:** Frontend & DevOps Lead
+- **Tech Stack:** Java, Spring Boot, Vaadin, MariaDB, Docker, Jenkins, Google Gemini AI
+- **Status:** Completed (Spring 2026)
+- **Highlights:** Built multi-language UI, CI/CD pipeline, and AI integration for high-quality context scanning.
 
 </td>
 <td width="50%" valign="top">
