@@ -7,7 +7,7 @@
 
 **[JobsResearch](https://github.com/Lion504/JobsResearch)** — Multi-agent AI job-market research platform (Python). Actively developed daily with Claude/Kilo agent orchestration for automated scraping, analysis, and reporting.
 
-- 📊 **541+ commits**, 3 contributors, 4 active branches
+- 📊 **877+ commits**, 3 contributors, 1 active branch (main)
 - 🤖 Multi-agent dev workflow (`.agents`, `.claude`, `.kilo/plans`) — orchestrating AI agents to build, test, and review code
 - 🔄 Automated scraping pipeline + AI-driven job analysis and analytics dashboard
 - ✅ Strict PR review process and branch protection for code quality
