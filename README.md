@@ -4,7 +4,7 @@
 
 I build LLM agent systems end to end — multi-agent workflows, semantic search, model routing and fine-tuned models — together with the CI/CD and quality gates that ship them.
 
-🎯 **Open to junior or graduate roles** as an AI engineer, forward-deployed engineer (FDE), backend or full-stack developer **from January 2027**, in Helsinki or remote in the EU.
+🎯 **Open to junior or graduate roles** as an AI engineer, forward-deployed engineer (FDE), backend or full-stack developer, in Helsinki or remote in the EU: **part-time from January 2027, full-time after graduating in spring 2027**.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0F766E?style=for-the-badge&logo=githubpages&logoColor=white)](https://lion504.github.io/)
 [![Suomeksi](https://img.shields.io/badge/-Suomeksi-003580?style=for-the-badge)](https://lion504.github.io/fi/)
@@ -27,7 +27,7 @@ I build LLM agent systems end to end — multi-agent workflows, semantic search,
 
 ## 👤 About Me
 
-- 🎓 **Machine learning engineering** student at Metropolia University of Applied Sciences — 171/240 ECTS, graduating **December 2026**
+- 🎓 **Machine learning engineering** student at Metropolia University of Applied Sciences — 186 ECTS completed, graduating **spring 2027**
 - 🏗️ **Digital Twin Architecture Trainee** at Metropolia SW Factory since September 2026: repository clean-up, an architecture map, CI test automation and documentation for a project untouched for two years
 - 📋 **10 years as a construction project manager** before software: planning, stakeholder communication and delivering to deadlines
 - 🏆 **7th place at Junction 2024** (IFC Innovate, top 10 of nearly 200 submissions), plus Junction 2025 and ULTRAHACK 2024
@@ -222,8 +222,8 @@ BeautifulSoup, ESLint, Prettier, npm, pnpm, Bun, Vite, Homebrew, Linux, UML, Agi
 
 | 💻 Technical Development                                  | 🚀 Career & Impact                                      |
 | :-------------------------------------------------------- | :------------------------------------------------------ |
-| Agent-driven development under tests and quality gates    | A junior or graduate AI engineering role from Jan 2027  |
-| Evaluating LLMs against baselines before fine-tuning      | Graduating from Metropolia in December 2026             |
+| Agent-driven development under tests and quality gates    | A junior or graduate AI engineering role, part-time from Jan 2027 |
+| Evaluating LLMs against baselines before fine-tuning      | Graduating from Metropolia in spring 2027, then full-time |
 | Digital twin architecture and CI test automation          | Building tools for the Finnish job market               |
 | Retrieval, model routing and guardrails for LLM apps      | Improving my Finnish (CEFR A2 today)                    |
 
