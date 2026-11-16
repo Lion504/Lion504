@@ -1,8 +1,8 @@
 # Hi there, I'm Wang Yongzhi (Timo) 👋
 
-**AI Engineer & Software Developer in Helsinki | Machine learning engineering student at Metropolia | Former construction project manager (10 years)**
+**AI Engineer & Software Developer in Helsinki | BEng student in Machine Learning at Metropolia | Former construction project manager (10 years)**
 
-I build LLM agent systems end to end — multi-agent workflows, semantic search, model routing and fine-tuned models — together with the CI/CD and quality gates that ship them.
+I build LLM agent systems end to end — multi-agent workflows, semantic search, model routing and fine-tuned models — together with the CI/CD and quality gates that ship them. I've built more than ten projects across software, AI and hardware, and I enjoy building things that make people's everyday life and work easier.
 
 🎯 **Open to junior or graduate roles** as an AI engineer, forward-deployed engineer (FDE), backend or full-stack developer, in Helsinki or remote in the EU: **part-time from January 2027, full-time after graduating in spring 2027**.
 
@@ -17,18 +17,25 @@ I build LLM agent systems end to end — multi-agent workflows, semantic search,
 
 **[JobsResearch](https://lion504.github.io/jobsresearch-decisions.html)** — a job-market platform that collects postings, filters them to what a candidate is eligible for, and explains each match. The repository is private: read the [case study](https://lion504.github.io/jobsresearch-decisions.html); a live demo is available on request.
 
-- 📊 **100,000+ job postings** from five sources since July 2026 (four Finnish job boards and Sweden's national employment API); **8,000+** analysed against a CV
+- 📊 **160,000+ job postings** from five sources since July 2026 (four Finnish job boards and Sweden's national employment API); **8,900+** analysed against a CV
 - ⚖️ An LLM judges fit, and **deterministic eligibility rules cap the score** (seniority, required degree, fluent Finnish), so persuasive posting text cannot override hard requirements
-- 🤖 Built with a **team of 8 AI agents** in builder, reviewer, verifier and coordinator roles under a written loop engineering process: **5,000+ commits and 1,500+ merged pull requests** since August 2026
+- 🤖 Built with a **team of 8 AI agents** in builder, reviewer, verifier and coordinator roles under a written loop engineering process: **5,200+ commits and 1,600+ merged pull requests** since August 2026
 - ✅ Every code change passes automated tests and a **Jenkins + SonarQube** quality gate; multi-user, deployed with Docker and PostgreSQL
 - 🎤 **October 2026:** selected as the only student to present JobsResearch to Metropolia's President and CEO in the leadership session
+
+**[Projector system rebuild](https://lion504.github.io/projector-rebuild.html)** — my projector was stuck on Android 4.4 after its maker stopped updating it, so I built a replacement system for it. The repository is private: read the [engineering note](https://lion504.github.io/projector-rebuild.html).
+
+- 📽️ Mapped how the factory system drives the display, remote, power, focus motor and Wi-Fi, then built an **Android 7.1 system on the original kernel** with my own TV launcher and settings
+- 📶 Runs **more smoothly than the factory system** and uses the Wi-Fi chip's **5 GHz band**, which the factory system never switched on
+- 🛟 Every install needs a backup, and an **automatic rollback** restores the previous system after a failed boot
+- 🤝 My first project combining **cloud AI agents with a local model** on my own machine: 529 commits in six days, and 61 of 100 tracked requests confirmed on the device
 
 ---
 
 ## 👤 About Me
 
-- 🎓 **Machine learning engineering** student at Metropolia University of Applied Sciences — 186 ECTS completed, graduating **spring 2027**
-- 🏗️ **Digital Twin Architecture Trainee** at Metropolia SW Factory since September 2026: repository clean-up, an architecture map, CI test automation and documentation for a project untouched for two years
+- 🎓 **BEng, Information Technology (Software Engineering: Machine Learning)** at Metropolia University of Applied Sciences — 186 ECTS completed, GPA 4.3, graduating **spring 2027**
+- 🏗️ **Digital Twin Trainee — CI & Test Automation** at Metropolia SW Factory since September 2026: revived a Unity digital twin untouched for two years, then built its CI pipeline in Jenkins and Python with Unity compile checks and a strict test-report gate
 - 📋 **10 years as a construction project manager** before software: planning, stakeholder communication and delivering to deadlines
 - 🏆 **7th place at Junction 2024** (IFC Innovate, top 10 of nearly 200 submissions), plus Junction 2025 and ULTRAHACK 2024
 - 🖥️ I run my own **self-hosted Linux lab**: Ubuntu, Docker, Coolify, Grafana and Tailscale
@@ -100,6 +107,7 @@ I build LLM agent systems end to end — multi-agent workflows, semantic search,
 ![OpenRouter](https://img.shields.io/badge/-OpenRouter-FF6B6B?style=flat-square&logo=router&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Open WebUI](https://img.shields.io/badge/-Open_WebUI-000000?style=flat-square&logo=openai&logoColor=white)
+![Local + cloud agents](https://img.shields.io/badge/-Local_%2B_cloud_agents-0F766E?style=flat-square&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
@@ -132,6 +140,22 @@ I build LLM agent systems end to end — multi-agent workflows, semantic search,
 ![Tailscale](https://img.shields.io/badge/-Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)
 
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🔌 Embedded & Devices:**
+
+![Android AOSP](https://img.shields.io/badge/-Android_%28AOSP%29-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/-Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![ARM](https://img.shields.io/badge/-ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![ADB](https://img.shields.io/badge/-ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -179,9 +203,9 @@ BeautifulSoup, ESLint, Prettier, npm, pnpm, Bun, Vite, Homebrew, Linux, UML, Agi
 
 **Finland Job Market Visualizer** — 459 occupations as an explorable treemap, with AI-exposure analysis
 
-- **Role:** Sole author — Full-Stack Developer & Data Engineer, 45 of 45 commits
-- **Tech Stack:** Python, StatFin PxWeb API, Occupational Barometer, GitHub Pages
-- **Status:** Live ⭐ 14 stars — [open the map](https://lion504.github.io/Fi-Job-Maps/)
+- **Role:** Sole author — Full-Stack Developer & Data Engineer
+- **Tech Stack:** Python, StatFin PxWeb API, Occupational Barometer, GitHub Actions, GitHub Pages
+- **Status:** Live ⭐ 14 stars, refreshes itself every week — [open the map](https://lion504.github.io/Fi-Job-Maps/)
 - **Highlights:** keeps measured data and model estimates separate — [case study](https://lion504.github.io/fijobmaps-data.html)
 
 </td>
@@ -189,14 +213,14 @@ BeautifulSoup, ESLint, Prettier, npm, pnpm, Bun, Vite, Homebrew, Linux, UML, Agi
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 [CLboost](https://github.com/Lion504/CLboost)
+### 📽️ [Projector system rebuild](https://lion504.github.io/projector-rebuild.html)
 
-**AI-Powered Cover Letter Generator** — personalised cover letters tailored to each job application
+**A new system for hardware its maker left behind** — Android 4.4 → 7.1 on the original kernel
 
-- **Role:** Frontend & DevOps Lead — 183 of 263 commits, team of four
-- **Tech Stack:** Java, Spring Boot, Vaadin, MariaDB, Docker, Jenkins, SonarQube, JMeter, Google Gemini AI
-- **Status:** Completed (Spring 2026)
-- **Highlights:** six interface languages including right-to-left, editable output and a Docker + Jenkins pipeline — [case study](https://lion504.github.io/clboost-beyond-generation.html)
+- **Role:** Sole author — personal project (Nov 2026), private repository
+- **Tech Stack:** Android (AOSP), Java, C, Python, ARM, local LLM + cloud agents
+- **Status:** Running on the device: 61 of 100 tracked requests confirmed
+- **Highlights:** smoother than the factory system, 5 GHz Wi-Fi switched on, automatic rollback — [engineering note](https://lion504.github.io/projector-rebuild.html)
 
 </td>
 <td width="50%" valign="top">
@@ -214,7 +238,7 @@ BeautifulSoup, ESLint, Prettier, npm, pnpm, Bun, Vite, Homebrew, Linux, UML, Agi
 </tr>
 </table>
 
-**More projects:** 💰 MoneyMoves — Unity 3D finance-education web game (Junction 2025, C#, Unity, Google Cloud, Firebase) · ✈️ [Airport Simulation](https://github.com/unaisansegundo/JavaSimulationProject) — Java discrete-event simulation, 157 of 271 commits · 🧛 [Drakula-v2](https://github.com/ktnlvr/drakula-v2) — multiplayer 3D board game on FastAPI and Three.js · 🖥️ [Self-hosted Linux lab](https://lion504.github.io/homelab.html). All projects are on [my portfolio](https://lion504.github.io/projects.html).
+**More projects:** 🚀 [CLboost](https://github.com/Lion504/CLboost) — AI cover-letter generator in six languages, Frontend & DevOps Lead (183 of 263 commits) · 💰 MoneyMoves — Unity 3D finance-education web game (Junction 2025, C#, Unity, Google Cloud, Firebase) · ✈️ [Airport Simulation](https://github.com/unaisansegundo/JavaSimulationProject) — Java discrete-event simulation, 157 of 271 commits · 🧛 [Drakula-v2](https://github.com/ktnlvr/drakula-v2) — multiplayer 3D board game on FastAPI and Three.js · 🖥️ [Self-hosted Linux lab](https://lion504.github.io/homelab.html). All projects are on [my portfolio](https://lion504.github.io/projects.html).
 
 ---
 
@@ -224,7 +248,8 @@ BeautifulSoup, ESLint, Prettier, npm, pnpm, Bun, Vite, Homebrew, Linux, UML, Agi
 | :-------------------------------------------------------- | :------------------------------------------------------ |
 | Agent-driven development under tests and quality gates    | A junior or graduate AI engineering role, part-time from Jan 2027 |
 | Evaluating LLMs against baselines before fine-tuning      | Graduating from Metropolia in spring 2027, then full-time |
-| Digital twin architecture and CI test automation          | Building tools for the Finnish job market               |
+| Digital twin CI and test automation                       | Building tools for the Finnish job market               |
+| Rebuilding device software with AI agents                 | Building software that makes everyday life easier       |
 | Retrieval, model routing and guardrails for LLM apps      | Improving my Finnish (CEFR A2 today)                    |
 
 ---
