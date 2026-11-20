@@ -34,7 +34,7 @@ I build LLM agent systems end to end — multi-agent workflows, semantic search,
 
 ## 👤 About Me
 
-- 🎓 **BEng, Information Technology (Software Engineering: Machine Learning)** at Metropolia University of Applied Sciences — 186 ECTS completed, GPA 4.3, graduating **spring 2027**
+- 🎓 **BEng, Information Technology (Software Engineering: Machine Learning)** at Metropolia University of Applied Sciences
 - 🏗️ **Digital Twin Trainee — CI & Test Automation** at Metropolia SW Factory since September 2026: revived a Unity digital twin untouched for two years, then built its CI pipeline in Jenkins and Python with Unity compile checks and a strict test-report gate
 - 📋 **10 years as a construction project manager** before software: planning, stakeholder communication and delivering to deadlines
 - 🏆 **7th place at Junction 2024** (IFC Innovate, top 10 of nearly 200 submissions), plus Junction 2025 and ULTRAHACK 2024
