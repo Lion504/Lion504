@@ -23,13 +23,6 @@ I build LLM agent systems end to end — multi-agent workflows, semantic search,
 - ✅ Every code change passes automated tests and a **Jenkins + SonarQube** quality gate; multi-user, deployed with Docker and PostgreSQL
 - 🎤 **October 2026:** selected as the only student to present JobsResearch to Metropolia's President and CEO in the leadership session
 
-**[Projector system rebuild](https://lion504.github.io/projector-rebuild.html)** — my projector was stuck on Android 4.4 after its maker stopped updating it, so I built a replacement system for it. The repository is private: read the [engineering note](https://lion504.github.io/projector-rebuild.html).
-
-- 📽️ Mapped how the factory system drives the display, remote, power, focus motor and Wi-Fi, then built an **Android 7.1 system on the original kernel** with my own TV launcher and settings
-- 📶 Runs **more smoothly than the factory system** and uses the Wi-Fi chip's **5 GHz band**, which the factory system never switched on
-- 🛟 Every install needs a backup, and an **automatic rollback** restores the previous system after a failed boot
-- 🤝 My first project combining **cloud AI agents with a local model** on my own machine: 529 commits in six days, and 61 of 100 tracked requests confirmed on the device
-
 ---
 
 ## 👤 About Me
@@ -225,20 +218,20 @@ BeautifulSoup, ESLint, Prettier, npm, pnpm, Bun, Vite, Homebrew, Linux, UML, Agi
 </td>
 <td width="50%" valign="top">
 
-### 🔎 [JobAio](https://github.com/Lion504/JobAio)
+### 🍌 [Fruit ripeness grading](https://github.com/Lion504/fruit-ripeness-vlm)
 
-**Finnish Job Market Scraper & Aggregator** — listings from multiple Finnish sources with AI-assisted analysis
+**Fruit ripeness grading with a 0.8B vision-language model** — four LoRA add-ons for Qwen3.5-0.8B that name the fruit and grade banana, apple and tomato ripeness offline with llama.cpp
 
-- **Role:** Lead contributor & Scrum Master — 258 of 381 commits, team of five
-- **Tech Stack:** TypeScript, JavaScript, Python, Node.js, React, Bun, Docker, web scraping
-- **Status:** MIT licensed ⭐ 2 stars
-- **Highlights:** monorepo architecture; I ran the team's Scrum process
+- **Role:** Sole author — personal project (Nov 2026), Apache-2.0
+- **Tech Stack:** Python, Qwen3.5-0.8B, LoRA, llama.cpp, Hugging Face
+- **Result:** banana 81.4% (4 stages), apple 94.7%, tomato 93.3%; more accurate than the 9 public fruit ripeness models I tested
+- **Links:** [model on Hugging Face](https://huggingface.co/timo6677/qwen3.5-0.8b-fruit-ripeness-lora) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24417897.svg)](https://doi.org/10.5281/zenodo.24417897)
 
 </td>
 </tr>
 </table>
 
-**More projects:** 🚀 [CLboost](https://github.com/Lion504/CLboost) — AI cover-letter generator in six languages, Frontend & DevOps Lead (183 of 263 commits) · 💰 MoneyMoves — Unity 3D finance-education web game (Junction 2025, C#, Unity, Google Cloud, Firebase) · ✈️ [Airport Simulation](https://github.com/unaisansegundo/JavaSimulationProject) — Java discrete-event simulation, 157 of 271 commits · 🧛 [Drakula-v2](https://github.com/ktnlvr/drakula-v2) — multiplayer 3D board game on FastAPI and Three.js · 🖥️ [Self-hosted Linux lab](https://lion504.github.io/homelab.html). All projects are on [my portfolio](https://lion504.github.io/projects.html).
+**More projects:** 🔎 [JobAio](https://github.com/Lion504/JobAio) — Finnish job-market scraper and aggregator, lead contributor & Scrum Master (258 of 381 commits) · 🚀 [CLboost](https://github.com/Lion504/CLboost) — AI cover-letter generator in six languages, Frontend & DevOps Lead (183 of 263 commits) · 💰 MoneyMoves — Unity 3D finance-education web game (Junction 2025, C#, Unity, Google Cloud, Firebase) · ✈️ [Airport Simulation](https://github.com/unaisansegundo/JavaSimulationProject) — Java discrete-event simulation, 157 of 271 commits · 🧛 [Drakula-v2](https://github.com/ktnlvr/drakula-v2) — multiplayer 3D board game on FastAPI and Three.js · 🖥️ [Self-hosted Linux lab](https://lion504.github.io/homelab.html). All projects are on [my portfolio](https://lion504.github.io/projects.html).
 
 ---
 
